@@ -13,6 +13,9 @@ If you have a short time to visit Berlin but want to see as many museums as poss
 - Bode Museum
 4. Brandenburger Tor
 
+###### If you want to eat something before starting the trip, check out Marcio's [food guide](marcio.md).
+
+
 ### 1. Alexanderplatz - Marienkirche
 
 ![marienkirche](images/marienkirche.jpg)
