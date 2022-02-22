@@ -1,8 +1,13 @@
-# Vacation Spots<br>
+# Berlin<br>
 
-## Choosen Place here<br>
+## Where can I eat in Berlin?<br>
 
-> Where to eat
+> Traditional German Cuisine
+
+Wurst, schnitzel, roast pork & local beer served in a down-home German eatery with outdoor seating.
+
+- Meinekestraße 4, 10719 Berlin
+
 
 > Going out
 
