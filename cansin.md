@@ -4,7 +4,7 @@
 
 If you have a short time to visit Berlin but want to see as many museums as possible in this short time, this route is for you! We are going to follow the *Unter den Linden line* from *Alexanderplatz* to *Brandenburger Tor*.
 
-1. Alexanderplatz
+1. Alexanderplatz - Marienkirche
 2. Berliner Dom
 3. Museum Island
 - Pergamon Museum
@@ -12,3 +12,33 @@ If you have a short time to visit Berlin but want to see as many museums as poss
 - Neues Museum
 - Bode Museum
 4. Brandenburger Tor
+
+### 1. Alexanderplatz - Marienkirche
+
+![marienkirche](images/marienkirche.jpg)
+
+### 2. Berliner Dom
+
+![berlinerdom](images/berlinerdom.jpg)
+
+### 3. Museum Island
+
+- Pergamon Museum
+
+![pergamon](images/pergamonmuseum.png)
+
+- Pergamon Museum Das Panaroma
+
+![panaroma](images/daspanorama.png)
+
+- Neues Museum
+
+![neues](images/neues.png)
+
+- Bode Museum
+
+![bode](images/bode.png)
+
+### 4. Brandenburger Tor
+
+![brandenburgertor](images/brandenburgertor.png)
