@@ -7,8 +7,8 @@ If you have a short time to visit Berlin but want to see as many museums as poss
 1. Alexanderplatz
 2. Berliner Dom
 3. Museum Island
-..1. Pergamon Museum
-..2. Pergamon Museum Das Panaroma
-..3. Neues Museum
-..4. Bode Museum
+- Pergamon Museum
+- Pergamon Museum Das Panaroma
+- Neues Museum
+- Bode Museum
 4. Brandenburger Tor
