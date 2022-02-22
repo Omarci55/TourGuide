@@ -7,6 +7,8 @@
 + Asian Food
 + Vegan cuisine
 
+##### After eating, what about a Tour through the [museums](cansin.md)?
+
 <br>
 <br>
 
