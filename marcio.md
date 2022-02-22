@@ -2,6 +2,15 @@
 
 ## Where can I eat in Berlin?<br>
 
++ Tradicional german cuisine
++ Dönner Kebab
++ Asian Food
++ Vegan cuisine
+
+<br>
+<br>
+
+
 > Traditional German Cuisine
 
 #### Wurst, schnitzel, roast pork & local beer served in a down-home German eatery with outdoor seating.
@@ -29,7 +38,7 @@ Alte Schönhauser Str. 46, 10119 Berlin \
 ![]()
 
 
-> Vegan Food
+> Vegan Cuisine
 
 #### Eat in peace with the nature
 
