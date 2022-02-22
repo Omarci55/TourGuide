@@ -4,7 +4,7 @@
 
 > Traditional German Cuisine
 
-Wurst, schnitzel, roast pork & local beer served in a down-home German eatery with outdoor seating.
+#### Wurst, schnitzel, roast pork & local beer served in a down-home German eatery with outdoor seating.
 
 - Meinekestraße 4, 10719 Berlin
 
